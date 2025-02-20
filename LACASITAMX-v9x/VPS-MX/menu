@@ -321,7 +321,7 @@ fi
    chmod 777 ${SCPdir}/*
  #  wget -O /etc/VPS-MX/protocolos/ssl5.sh https://www.dropbox.com/s/aly73lbbh74r7tu/ssl5.sh &>/dev/null
    #chmod 777 /etc/VPS-MX/protocolos/ssl5.sh
-   wget -O /etc/VPS-MX/protocolos/chekuser.sh https://www.dropbox.com/s/dypjomdhjhkpahk/chekuser.sh &>/dev/null
+   wget -O /etc/VPS-MX/protocolos/chekuser.sh https://github.com/DiegoPintoTeam/Multi-Script/blob/main/LACASITAMX-v9x/VPS-MX/protocolos/chekuser.sh &>/dev/null
    chmod 777 /etc/VPS-MX/protocolos/chekuser.sh
    wget -O /etc/VPS-MX/protocolos/chekuser.py https://www.dropbox.com/s/7he83qd5pfznrvh/chekuser.py &>/dev/null
    chmod 777 /etc/VPS-MX/protocolos/chekuser.py
