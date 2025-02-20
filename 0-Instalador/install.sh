@@ -371,7 +371,7 @@ v22=$(cat /etc/version_instalacion)
 vesaoSCT="\e[1;31m [ \e[1;32m( $v22 )\e[1;97m\e[1;31m ]"
 msgi -ama "   PREPARANDO INSTALACION | VERSION: $vesaoSCT"
 msgi -bar2
-echo -ne "\e[1;93m [\e[1;32m2\e[1;93m]\e[1;31m >\e[1;97m LACASITAMX............(9X)   \e[1;31m 🎁 FREE \e[97m \n"
+echo -ne "\e[1;93m [\e[1;32m1\e[1;93m]\e[1;31m >\e[1;97m LACASITAMX............(9X)   \e[1;31m 📥 \e[97m \n"
 msgi -bar2
 echo -ne "\e[1;93m [\e[1;32m ARCHIVOS Y LINKS TOTALMENTE ABIERTOS Y PUBLICOS \e[1;93m]\e[1;96m\n       https://github.com/DiegoPintoTeam/Multi-Script\e[97m \n"
 msgi -bar2
