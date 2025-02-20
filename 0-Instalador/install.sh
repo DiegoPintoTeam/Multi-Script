@@ -220,7 +220,6 @@ while :; do
   *) exit ;;
   esac
 done
-}
 
 #LACASITA V9
 install_LACASITA_90() {
